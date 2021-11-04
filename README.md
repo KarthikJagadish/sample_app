@@ -1,24 +1,7 @@
-# README
+# Ruby on Rails Tutorial - Sample Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the sample application for "Ruby on Rails Tutorial: Learn Web Development with Rails - Michael Hartl" 
 
-Things you may want to cover:
+DISCLAIMER: 
+All source code in the 'Ruby on Rails Tutorial' is available jointly under the MIT License and the Beerware License (Refer the book for more details)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
